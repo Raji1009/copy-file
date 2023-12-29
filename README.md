@@ -42,7 +42,7 @@ print("Number of columns: ",len(df.axes[1]))
 
 
 ### OUTPUT:
-![output](image.png)
+![image](https://github.com/Raji1009/copy-file/assets/89059861/07a4b40b-634a-4f9b-9e3b-d4223c316ab7)
 
 
 ## RESULT:
